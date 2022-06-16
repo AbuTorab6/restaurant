@@ -1,0 +1,292 @@
+body
+{
+    margin:0px;
+    padding:0px;
+    
+    background-color:#181A1C;
+}
+
+/*---------------------section1-------------------*/
+
+.section1
+{
+    overflow: hidden;
+}
+
+.container1
+{
+    width:95%;
+    margin:auto;
+}
+
+.container1 ul
+{
+  list-style-type: none;
+}
+
+.container1 ul li
+{
+    float: left;
+    padding:13px 70px;
+    margin:auto;
+    background-color:#FFC600;
+    margin-right: 10px;
+    margin-top: 30px;
+    
+    font-size: 20px;
+    font-weight:700;
+    
+       
+}
+
+.container1 ul li a
+{
+   text-decoration: none;
+    color:black;
+       
+}
+
+
+
+
+/*---------------------section2-------------------*/
+
+.section3{
+    overflow: hidden;
+}
+
+.container2
+{
+    width:95%;
+    margin:auto;
+    margin-top: 40px;
+    overflow: hidden;
+}
+
+.container2 .left
+{
+    width:70%;
+}
+
+.container2 .right
+{
+    width:30%;
+}
+
+.side
+{
+  float:left;  
+    position: relative;
+}
+
+.container2 .left .img1
+{
+    width:100%;
+    height:500px;
+    
+    background-image: url('../1.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    overflow: hidden;
+    
+}
+
+
+.container2 .left .img1 .text span
+{
+    background-color: #FFC600;
+    
+    padding:13px 5px;
+    
+    font-size: 30px;
+    font-weight: 600;
+   
+   
+}
+
+.container2 .left .img1 .text
+{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.container2 .right .up
+{
+    width:90%;
+    height:200px;
+    background-color:#FFC600; 
+    margin:auto;
+    position: absolute;
+    top:0px;
+    left:30px;
+    
+    
+}
+
+.container2 .right .up .p1
+{
+    text-align: center;
+    font-size: 50px;
+   
+}
+
+.container2 .right .up .p2
+{
+    text-align: center;
+    font-size: 20px;
+}
+
+.container2 .right .down
+{
+    width:90%;
+    height:200px;
+    background-color:#FFC600; 
+    margin:auto;
+    position: absolute;
+    top:300px;
+    left:30px;
+    
+}
+
+.container2 .right .down .p1
+{
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+.container2 .right .down .p2
+{
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
+/*---------------------section3-------------------*/
+
+
+.container3
+{
+    width:95%;
+    margin: auto;
+    padding-top: 20px
+}
+
+
+.container3 .box
+{
+    width:23%;
+    float:left;
+    background-color: aliceblue;
+    
+    margin:10px;
+    
+}
+
+.icon
+{
+    color:orange;
+    font-size: 35px;
+    
+    display:block;
+    text-align: center;
+}
+
+.container3 .box p
+{
+    text-align: center;
+}
+
+.container3 .box .p1
+{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.container3 .box .p2
+{
+    
+    font-weight: 600;
+    color:orange;
+}
+
+
+/*---------------------section4-------------------*/
+
+.section4
+{
+ 
+   margin-top: 10px;
+ overflow: hidden;  
+}
+
+
+.container4
+{
+    width:90%;
+    margin: auto;
+     
+  padding-top:50px;
+     background-color: aliceblue; 
+     overflow: hidden;
+}
+
+.container4 .left
+{
+     width:40%;
+    float: left;
+}
+
+.container4 .right
+{
+     width:60%;
+    float: left;
+}
+
+.container4 .left .img2
+{
+    width:100%;
+    height:400px;
+    
+    background-image: url('../2.jpg');
+    background-size: cover;
+    border-radius: 30px;
+    padding:10px;
+    
+}
+
+
+.container4 .right p
+{
+    text-align: center;
+}
+
+.container4 .right .p1
+{
+     font-size: 40px;
+    color: orange;
+    font-weight: 600;
+}
+
+.container4 .right .p2
+{
+     font-size: 20px;
+    color: orange;
+    font-weight: 600;
+}
+
+.container4 .right .p3
+{
+     font-size: 30px;
+    color: orange;
+    font-weight: 600;
+  
+    width:200px;
+    border:1px solid orange;
+    margin:auto;
+
+    background: gray;
+}
+
+
